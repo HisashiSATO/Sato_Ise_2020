@@ -2,10 +2,17 @@ ______________________________________________________
 Sato and Ise (submitted) Open Data
 
 Author: Hisashi SATO (JAMSTEC) hsatoscb_(at)_gmail.com
+
 Date: 8 May 2020
+
 URLs:
+
 https://github.com/HisashiSATO/Sato_Ise_2020
+
 https://ebcrpa.jamstec.go.jp/~hsato/Sato_and_Ise_2020
+
+Notice:
+Visualized Climate Environments (VCEs) are only available at the latter URL due to the limitation of file size.
 ______________________________________________________
 
 1. Folder "1.VCDs"
